@@ -1,6 +1,6 @@
 
 ### Ola! Eu sou o Bryan Kevin 👋
-- 💻 programador front end
+- 💻 Programador front end
 - 🎓 Cursando Ciência da Computação.
 - 💼 Estou em busca de oportunidades de estágio.
 
