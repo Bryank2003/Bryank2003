@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Bryan Kevin 👋
 - 💻 Programador front end
-- 🎓 Cursando Ciência da Computação.
-- 💼 Estou em busca de oportunidades de estágio.
+- 🎓 Cursando Ciência da Computação
+- 💼 Estou em busca de oportunidades de estágio
 
 ![Bryan kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryank2003&show_icons=true&theme=dark)
 
