@@ -15,6 +15,4 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="MySQL" src="https://https://img.shields.io/badge/MySQL-00001F? style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="MySQL" src="https://https://img.shields.io/badge/MySQL-00001F? style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
