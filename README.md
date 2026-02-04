@@ -3,7 +3,7 @@
 - 🎓 Cursando Ciência da Computação.
 - 💼 Estou em busca de oportunidades de estágio.
 
-![Bryan Kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryank2003&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Bryan kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryank2003&show_icons=true&theme=dark)
 
 
 ## Tecnologias que utilizo no meu dia a dia
